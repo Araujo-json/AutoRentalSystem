@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApp", "ClientApp\ClientApp.csproj", "{C1864C82-317E-4AE9-BBA1-39184D8B6A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOLayer", "BOLayer\BOLayer.csproj", "{1A696C0C-F2D9-421A-8FEC-25988F48E1CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALayer", "DALayer\DALayer.csproj", "{D923B3C4-D9DB-4595-89CB-077857E3F337}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1864C82-317E-4AE9-BBA1-39184D8B6A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1864C82-317E-4AE9-BBA1-39184D8B6A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1864C82-317E-4AE9-BBA1-39184D8B6A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1864C82-317E-4AE9-BBA1-39184D8B6A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A696C0C-F2D9-421A-8FEC-25988F48E1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A696C0C-F2D9-421A-8FEC-25988F48E1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A696C0C-F2D9-421A-8FEC-25988F48E1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A696C0C-F2D9-421A-8FEC-25988F48E1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D923B3C4-D9DB-4595-89CB-077857E3F337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D923B3C4-D9DB-4595-89CB-077857E3F337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D923B3C4-D9DB-4595-89CB-077857E3F337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D923B3C4-D9DB-4595-89CB-077857E3F337}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFE0E863-720C-47AD-ACAC-E25526235ABA}
+	EndGlobalSection
+EndGlobal
